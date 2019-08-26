@@ -3,6 +3,5 @@
 - This class sets me up for success in future CS classes.
 - It is a relaxed setting that prmotes growth in these topics.
 
-1. Numbered
-2. List
+
 
